@@ -4,6 +4,10 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-portfolio-item/blob/master/LICENSE)
  */
 
+li:not(:last-child) {
+    margin-bottom: 2px;
+}
+
 body {
   padding-top: 54px;
 }
