@@ -1,0 +1,5 @@
+Powered by Bootstrap 4.
+
+Some icons are obtained from the following websites:
+https://www.flaticon.com/
+https://www.pngegg.com/
