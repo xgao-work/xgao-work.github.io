@@ -71,6 +71,7 @@ body {
 }
 .blog-text-success {
     color: #28a745!important;
+    font-size: 13px;
 }
 .blog-card-blog .blog-card-caption {
     margin-top: 5px;
