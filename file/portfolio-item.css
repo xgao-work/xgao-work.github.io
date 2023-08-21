@@ -67,6 +67,7 @@ body {
 .blog-category {
     position: relative;
     margin: 14px 0;
+    margin-right:-10px;
 }
 .blog-text-success {
     color: #28a745!important;
